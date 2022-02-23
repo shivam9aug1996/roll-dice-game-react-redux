@@ -1,4 +1,4 @@
-DEMO--->https://6210e63dda6915f05a04d666--hungry-mirzakhani-9706eb.netlify.app/
+DEMO--->https://roll-dice-game-shivam.netlify.app
 
 ![React App](https://user-images.githubusercontent.com/52425336/154801790-312cdb57-d66f-4447-ab2d-abb28908eeae.png)
 
